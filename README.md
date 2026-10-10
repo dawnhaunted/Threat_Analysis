@@ -15,7 +15,7 @@ Pandas
 Plotly
 Run Locally
 Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/Sentinel.git
+   git clone https://github.com/dawnhaunted/Sentinel.git
    cd Sentinel
 
 Install dependencies:
